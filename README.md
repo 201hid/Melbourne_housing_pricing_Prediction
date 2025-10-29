@@ -29,10 +29,11 @@ This dataset includes:
 ---
 
 ### 🧠 Key Insights
-1. **Top Suburbs:** Visualizes the 10 most expensive suburbs in Melbourne based on median property prices.  
-2. **Price Trends:** Tracks median housing prices over time to identify growth or cooling phases.  
-3. **Distance Correlation:** Reveals that properties **closer to the Melbourne CBD** have significantly higher prices.  
-4. **Feature Correlations:** Displays a heatmap showing the strongest factors affecting price (e.g., rooms, land size, distance).  
+1. **Top Suburbs:** Visualizes the 10 most expensive suburbs in Melbourne based on median property prices.
+2. 
+3. **Price Trends:** Tracks median housing prices over time to identify growth or cooling phases.  
+4. **Distance Correlation:** Reveals that properties **closer to the Melbourne CBD** have significantly higher prices.  
+5. **Feature Correlations:** Displays a heatmap showing the strongest factors affecting price (e.g., rooms, land size, distance).  
 
 ---
 
@@ -78,5 +79,5 @@ If using a local environment, you can optionally install `plotly` for interactiv
 
 ### 🔍 Author
 **Towhidul Hassan**  
-Computer Science Graduate | Telstra Consultant | Data & AI Enthusiast  
-📧 [LinkedIn](https://linkedin.com/in/towhidul-hassan) | 🌐 [Portfolio](https://github.com/towhidulhassan)
+Computer Science Graduate  | Data & AI Enthusiast  
+📧 [LinkedIn](https://linkedin.com/in/towhidul-hassan) 
